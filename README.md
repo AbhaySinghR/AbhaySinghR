@@ -22,14 +22,14 @@ I enjoy tackling complex system problems and translating them into **production-
 | **Visualization** | Power BI, Tableau, Matplotlib, ArcGIS |
 
 ---
-
-
 ### 🧮 Competitive Programming & SQL Practice
-#### 📊 DataLemur Progress — SQL Challenges [Solved All]
-> ![DataLemur SQL Progress](DataLemurSQLProgress.png)
 
 #### 💻 LeetCode Progress — Algorithmic Thinking
 > https://leetcode.com/u/rana43338/
+
+
+#### 📊 DataLemur Progress — SQL Challenges [Solved All]
+> ![DataLemur SQL Progress](DataLemurSQLProgress.png)
 
 ---
 
