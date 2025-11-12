@@ -52,3 +52,8 @@ I enjoy tackling complex system problems and translating them into **production-
 ### 🧭 Let’s Connect
 If you’re working on **AI infrastructure**, **intelligent data systems**, or **agentic workflows**, let’s talk!  
 📬 [abhaysaikap@gmail.com](mailto:abhaysaikap@gmail.com) | [LinkedIn](https://www.linkedin.com/in/asr251/) | [GitHub](https://github.com/AbhaySinghR)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=AbhaySinghR&color=blue)
+
