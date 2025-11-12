@@ -1,16 +1,54 @@
-## Hi there 👋
+## 🧠 Abhay Singh — Data & AI Engineer  
+📍 *Bloomington, Indiana, USA*  
+🎓 *M.S. in Data Science @ Indiana University (GPA: 3.9)*  
+📧 [abhaysaikap@gmail.com](mailto:abhaysaikap@gmail.com) • [LinkedIn](https://www.linkedin.com/in/asr251/) • [GitHub](https://github.com/AbhaySinghR)
 
-<!--
-**AbhaySinghR/AbhaySinghR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 About Me
+I’m a Data and AI Engineer passionate about building **scalable systems**, **intelligent data workflows**, and **agentic AI applications**. My experience spans the full stack of modern data and ML infrastructure — from **Kafka–PySpark pipelines** processing terabytes of streaming data, to **RAG-based AI agents** and **GPU microservices** for large-scale inference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy tackling complex system problems and translating them into **production-ready, high-performance solutions**. Whether it’s optimizing ETL runtimes by 90%, fine-tuning vision transformers for pose detection, or deploying AI-driven decision systems — my goal is simple: **build solutions that matter and scale elegantly**.
+
+---
+
+### 🧩 Core Expertise
+| Domain | Tools & Frameworks |
+|:--|:--|
+| **Data Engineering** | PySpark, Airflow, Databricks, Azure Data Factory, Snowflake, Redshift, PostgreSQL |
+| **AI/ML Engineering** | PyTorch, TensorFlow, Scikit-Learn, LangChain, OpenAI API, CrewAI, LlamaIndex |
+| **Backend & APIs** | Flask, Django, Node.js, GraphQL, REST |
+| **Cloud & DevOps** | AWS (EC2, S3, ECS), Azure, Docker, CI/CD, Terraform |
+| **Visualization** | Power BI, Tableau, Matplotlib, ArcGIS |
+
+---
+
+
+### 🧮 Competitive Programming & SQL Practice
+#### 📊 DataLemur Progress — SQL Challenges
+> 
+
+#### 💻 LeetCode Progress — Algorithmic Thinking
+
+
+---
+
+### 💼 Professional Experience
+- **O’Neill School of Public and Environmental Affairs (Indiana University)** — Data Engineer / AI Software Engineer
+- **A.P. Moller Maersk (Bangalore)** — Data Engineer 2
+- **Microsoft (Contract via MAQ Software, Hyderabad)** — Data Engineer
+
+---
+
+### 📊 Highlights
+- 🎯 45% reduction in shipment delays via streaming analytics (Maersk)  
+- ⚙️ 97% faster reporting pipelines (Microsoft Finance)  
+- 🧩 Scalable RAG chatbot architecture deployed on AWS (O’Neill)  
+- 🔥 93%+ accuracy in primate pose estimation via transformer models  
+- 💡 Multi-award hackathon contributor (ServiceNow AI Agent, Ask DocAI)
+
+---
+
+### 🧭 Let’s Connect
+If you’re working on **AI infrastructure**, **intelligent data systems**, or **agentic workflows**, let’s talk!  
+📬 [abhaysaikap@gmail.com](mailto:abhaysaikap@gmail.com) | [LinkedIn](https://www.linkedin.com/in/asr251/) | [GitHub](https://github.com/AbhaySinghR)
