@@ -1,4 +1,4 @@
-## 🧠 Abhay Singh — Data & AI Engineer  
+## 🧠 Abhay Singh — Data & ML Engineer  
 📍 *Bloomington, Indiana, USA*  
 🎓 *M.S. in Data Science @ Indiana University (GPA: 3.9)*  
 📧 [abhaysaikap@gmail.com](mailto:abhaysaikap@gmail.com) • [LinkedIn](https://www.linkedin.com/in/asr251/) • [GitHub](https://github.com/AbhaySinghR) • [Portfolio](https://abhaysinghr.github.io/AbhayPortfolio/) 
